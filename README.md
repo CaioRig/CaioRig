@@ -1,7 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFoxgUS9l5VpQ/profile-displaybackgroundimage-shrink_350_1400/0/1683145890450?e=1688601600&v=beta&t=OoSc6bumi-J3-XsqOeuJnXvEshORFI5Kv1gfoGYwrgM)](https://www.linkedin.com/in/caiorigotto/)
 <h1 align="center">Hi 👋, I'm Caio Rigotto</h1>
 <h3 align="center">Full-Stack Developer with a passion for crafting interactive and user-friendly web applications.</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif">
 
 - 🔭 I’m currently working on [Society Revive](https://github.com/CaioRig/society-revive)
 
