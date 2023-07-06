@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFoxgUS9l5VpQ/profile-displaybackgroundimage-shrink_350_1400/0/1683145890450?e=1688601600&v=beta&t=OoSc6bumi-J3-XsqOeuJnXvEshORFI5Kv1gfoGYwrgM)](https://www.linkedin.com/in/caiorigotto/)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFoxgUS9l5VpQ/profile-displaybackgroundimage-shrink_350_1400/0/1683145890450?e=1694044800&v=beta&t=csSYbkspRlzAStYb3dTjhRSGbNbnzy6qcQwIeUzE9Z0)](https://www.linkedin.com/in/caiorigotto/)
 <h1 align="center">Hi 👋, I'm Caio Rigotto</h1>
 <h3 align="center">Full-Stack Developer with a passion for crafting interactive and user-friendly web applications.</h3>
 <img align="right" alt="Coding" width="250" height="250" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif"> 
