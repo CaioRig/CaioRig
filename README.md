@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Rigotto</h1>
 <h3 align="center">Full-Stack Developer with a passion for crafting interactive and user-friendly web applications.</h3>
-<img align="right" alt="Coding" width="250" height="250" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif"> 
 
 - 🔭 I’m currently working on [Society Revive](https://github.com/CaioRig/society-revive)
 
