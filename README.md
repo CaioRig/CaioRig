@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio Rigotto</h1>
 <h3 align="center">Full-Stack Developer with a passion for crafting interactive and user-friendly web applications.</h3>
 
-- 🔭 I’m currently working on [DBSoft Website]([https://github.com/CaioRig/society-revive](https://dbsoft-react-website.vercel.app))
+- 🔭 I’m currently working on [DBSoft Website](https://dbsoft-react-website.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/CaioRig/portfolio](https://github.com/CaioRig/portfolio)
 
