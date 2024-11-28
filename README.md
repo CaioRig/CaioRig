@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Sou Caio Rigotto</h1>
 <h3 align="center">Desenvolvedor Full-Stack apaixonado por criar aplicações web interativas e de fácil utilização.</h3>
 
-- 🔭 Estou trabalhando no momento em: [DBSoft Website](https://dbsoft-react-website.vercel.app)
+- 🔭 Estou trabalhando no momento em: [DBSoft Website](https://dbsoft-react-website.vercel.app) e em [Buscardapio Delivery](https://www.buscardapio.com.br/ouro-fino/dbsoft)
 
 - 📫 Como entrar em contato comigo: **caiorigotto@gmail.com**
 
