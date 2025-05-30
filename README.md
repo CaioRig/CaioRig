@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Caio Rigotto</h1>
-<h3 align="center">Desenvolvedor Full-Stack apaixonado por criar aplicações web interativas e de fácil utilização.</h3>
+<h3>Desenvolvedor Full-Stack apaixonado por criar aplicações web interativas e de fácil utilização.</h3>
 
 - 🔭 Estou trabalhando no momento em: [DBSoft Website](https://dbsoftinformatica.com.br) e em [Buscardapio Delivery](https://www.buscardapio.com.br/ouro-fino/dbsoft)
 
