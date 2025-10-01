@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Sou Caio Rigotto</h1>
 <h3>Desenvolvedor Full-Stack apaixonado por criar aplicações web interativas e de fácil utilização.</h3>
 
+- Veja meu portfolio em: [Portfolio Caio Rigotto](https://portifolio-caio-rigotto.vercel.app/)
+
 - 🔭 Estou trabalhando no momento em: [DBSoft Website](https://dbsoftinformatica.com.br) e em [Buscardapio Delivery](https://www.buscardapio.com.br/ouro-fino/dbsoft)
 
 - 📫 Como entrar em contato comigo: **caiorigotto@gmail.com**
-
-- 🔭 Veja meu portfolio em: [Portfolio Caio Rigotto](https://portifolio-caio-rigotto.vercel.app/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
