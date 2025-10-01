@@ -5,6 +5,8 @@
 
 - 📫 Como entrar em contato comigo: **caiorigotto@gmail.com**
 
+- 🔭 Veja meu portfolio em: [Portfolio Caio Rigotto](https://portifolio-caio-rigotto.vercel.app/)
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caiorigotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiorigotto" height="30" width="40" /></a>
